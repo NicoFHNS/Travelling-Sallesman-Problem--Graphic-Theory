@@ -1,0 +1,7 @@
+Nome do Software: Brute-Force-Travelling-Sallesman-Problem.
+Endereço da UFAL:Av. Manoel Severino Barbosa - Bom Sucesso, Arapiraca - AL, 57309-005.
+Este software está disponível em sua primeira versão no ano de 2021.
+Hardware Sugerido: Intel Core i9 11980HK 5GHz, memória 64GB DDR4 2666 MHz e SSD 256GB. No entanto esse projeto foi executado em um Ryzen 5 3600x 3.7Ghz, DDR4 16 gb 1333mhz e SSD de 1TB.
+Softwaare necessário: Todo o projeto foi rodado em Ubuntu 20.04.3 LTS.
+Disponibilidade:
+Custo: Todas as ferramentas utilizadas são gratuitas.
